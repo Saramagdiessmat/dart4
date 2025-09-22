@@ -1,5 +1,3 @@
-// 📘 Dart OOP Assignment (بشكل مبسط)
-
 //// 1. Inheritance
 class Vehicle {
   String brand;
